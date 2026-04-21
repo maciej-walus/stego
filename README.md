@@ -1,2 +1,2 @@
-# stego-app
+# stego
 PoC app for War Studies University in Warsaw
